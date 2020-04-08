@@ -114,6 +114,7 @@ a1 = lenetModel()
 n1 = torch.load(model_path)
 a1.load_state_dict(n1)
 
+a1.eval()
 
 raw_preds = a1(Xraw)
 # raw_loss = criterion(raw_preds, labelToOneHot(yraw))
