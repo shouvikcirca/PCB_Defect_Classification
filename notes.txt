@@ -1,2 +1,0 @@
-1 is not defective
-0 is defective
