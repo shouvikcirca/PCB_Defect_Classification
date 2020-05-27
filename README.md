@@ -15,11 +15,10 @@
 `slenet.th` The Slenet Model  
 `salexnet.py` Running the file gives inference details on the raw dataset  
 `salexnet.ipynb` Contains all the experimentation done while creating salexnet  
-`salexnet.th` The Salexnet Model  
-`epochs` Contains tensorboard visualization runs for number of epochs  
-`learning_rates` Contains tensorboard visualization runs for learning rates
-`requirements.txt` list of modules required to run the files' and notebooks' code  
-  
+`salexnet.th` The Salexnet Model   
+`VGG_pretrained.ipynb` Experimentations for transfer learning using VGG Net
+
+
   # Installing Modules  
   ```shell
   $ pip3 install -r requirements.txt
