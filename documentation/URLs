@@ -1,5 +1,5 @@
 Bayesian Optimization for hyperparameter tuning
-
+------------------------------------------------
 Lecture 16.3 — Bayesian optimization of hyper-parameters [Neural Networks for Machine Learning]
 https://www.youtube.com/watch?v=con_ONbhD2I
 
@@ -7,5 +7,69 @@ https://www.youtube.com/watch?v=con_ONbhD2I
 https://www.youtube.com/watch?v=C5nqEHpdyoE
 
 https://github.com/fmfn/BayesianOptimization
+
+Bayesian Deep Learning
+-----------------------
+Yarin Gal -. Bayesian Deep Learning
+https://www.youtube.com/watch?v=G6tUZRHnJYc
+notes - classification models output a probability vector erroneously interpreted as model uncertainty (11:11)
+A person with degree of belief p in event A is asumed to be willing to pay <= p units for a unit wager on A and
+is willing to sell such a wager for any price >= p units.
+
+
+
+
+Class Activation Maps
+----------------------
+Deep Learning Class Activation Maps
+https://www.youtube.com/watch?v=vTY58-51XZA
+
+Neural Networks: Visualizing Class Activation Maps for CNNs with Keras!
+https://www.youtube.com/watch?v=JzXyDoaaa8s
+
+
+
+t-tests
+-------
+StatsCast: What is a t-test?
+https://www.youtube.com/watch?v=0Pd3dc1GcHc
+
+
+
+Visual Saliency
+---------------
+https://www.youtube.com/watch?v=adKZUViFpH4
+Saliency Detection
+
+
+Dropout
+--------
+Lecture 10.5 — Dropout [Neural Networks for Machine Learning]
+https://www.youtube.com/watch?v=vAVOY8frLlQ
+Any net that uses early stopping can do better by using dropout
+(at the cost od taking longer to train)
+
+
+Graphical Models     
+----------------------
+Lecture 13.2 — Belief Nets [Neural Networks for Machine Learning]
+https://www.youtube.com/watch?v=6yxJeySclIc
+
+
+
+Boosting
+----------
+
+AdaBoost, Clearly Explained
+https://www.youtube.com/watch?v=LsK-xG1cLYA
+
+
+
+
+Accelerators in Kaggle
+-----------------------
+Accelerator Power Hour for data science professionals with Kaggle Grandmasters (Cloud AI Huddle)
+https://www.youtube.com/watch?v=DEuvGh4ZwaY
+
 
 
